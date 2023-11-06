@@ -1,2 +1,2 @@
 # python-miles_to_km
-Miles to KN to learn GUI display
+Miles to Km to learn GUI display
